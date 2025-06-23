@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👨‍💻 Matheus Lopes Lemos
 
-<!--
-**MatheusLopesLemos/MatheusLopesLemos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor Fullstack**
 
-Here are some ideas to get you started:
+Sou Matheus Lopes Lemos, desenvolvedor fullstack focado em Node.js, JavaScript e React. Estou sempre aprendendo novas tecnologias e aprimorando minhas habilidades para criar soluções web modernas, escaláveis e eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-lopes-lemos)](https://www.linkedin.com/in/matheus-lopes-lemos)
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Express" title="Express" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" alt="React" title="React" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Vite" title="Vite" width="30px" style="padding-right:8px;" src="https://vitejs.dev/logo.svg" />
+<img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="MongoDB" title="MongoDB" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="Prisma" title="Prisma" width="30px" style="padding-right:8px;" src="https://avatars.githubusercontent.com/u/44639868?s=200&v=4" />
+<img align="left" alt="ESLint" title="ESLint" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
+<img align="left" alt="Prettier" title="Prettier" width="30px" style="padding-right:8px;" src="https://prettier.io/icon.png" />
+
+<br /><br />
+
+---
+
+### 📊 Estatísticas GitHub
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=m-lopeslemos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-lopeslemos&theme=tokyonight&layout=compact&langs_count=7" alt="Top Languages" />
+</p>
+
+---
+
+Obrigado pela visita! 🚀
