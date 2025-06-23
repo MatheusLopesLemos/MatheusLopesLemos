@@ -35,8 +35,8 @@ Sou Matheus Lopes Lemos, desenvolvedor fullstack focado em Node.js, JavaScript e
 ### 📊 Estatísticas GitHub
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=m-lopeslemos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-lopeslemos&theme=tokyonight&layout=compact&langs_count=7" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MatheusLopesLemos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLopesLemos&theme=tokyonight&layout=compact&langs_count=7" alt="Top Languages" />
 </p>
 
 ---
