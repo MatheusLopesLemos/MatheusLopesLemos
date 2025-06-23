@@ -53,16 +53,6 @@ Sou Matheus Lopes Lemos, desenvolvedor fullstack focado em Node.js, JavaScript e
 
 <br clear="both"/>
 
-## 📈 Atividades Recentes
-
-![GitHub Contributions](https://ghchart.rshah.org/MatheusLopesLemos)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatheusLopesLemos&theme=tokyonight)
-
----
-
-
-
 ---
 
 Obrigado pela visita! 🚀
