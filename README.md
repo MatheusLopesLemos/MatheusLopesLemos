@@ -18,7 +18,10 @@ Sou Matheus Lopes Lemos, desenvolvedor fullstack focado em Node.js, JavaScript e
 <img align="left" alt="Vite" title="Vite" width="30px" style="padding-right:8px;" src="https://vitejs.dev/logo.svg" />
 <img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img align="left" alt="MongoDB" title="MongoDB" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Prisma" title="Prisma" width="30px" style="padding-right:8px;" src="https://avatars.githubusercontent.com/u/44639868?s=200&v=4" />
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="Prisma" title="Prisma" width="30px" style="padding-right:8px;" src="https://raw.githubusercontent.com/remojansen/logo.ts/master/prisma/logo.svg" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="ESLint" title="ESLint" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
 <img align="left" alt="Prettier" title="Prettier" width="30px" style="padding-right:8px;" src="https://prettier.io/icon.png" />
 
