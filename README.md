@@ -53,6 +53,16 @@ Sou Matheus Lopes Lemos, desenvolvedor fullstack focado em Node.js, JavaScript e
 
 <br clear="both"/>
 
+## 📈 Atividades Recentes
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MatheusLopesLemos&theme=react-dark)
+
+---
+
+## 🚀 Tech Stack
+
+Node.js | React | TypeScript | Tailwind CSS | Prisma | MongoDB | PostgreSQL | Git | GitHub | ESLint | Prettier
+
 ---
 
 Obrigado pela visita! 🚀
