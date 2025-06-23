@@ -53,7 +53,8 @@ Sou Matheus Lopes Lemos, desenvolvedor fullstack focado em Node.js, JavaScript e
   />
   
 </p>
-<br>
+
+<br /><br />
 ---
 
 Obrigado pela visita! 🚀
