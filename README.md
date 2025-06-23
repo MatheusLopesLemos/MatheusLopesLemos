@@ -27,17 +27,13 @@ Sou Matheus Lopes Lemos, desenvolvedor fullstack focado em Node.js, JavaScript e
 <img align="left" alt="ESLint" title="ESLint" width="30px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
 <img align="left" alt="Prettier" title="Prettier" width="30px" style="padding-right:8px;" src="https://prettier.io/icon.png" />
 
-
 <br /><br />
 
 ---
 
 ### 📊 Estatísticas GitHub
 
-
-
 <p align="left">
-
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -46,15 +42,13 @@ Sou Matheus Lopes Lemos, desenvolvedor fullstack focado em Node.js, JavaScript e
     src="https://github-readme-stats.vercel.app/api?username=MatheusLopesLemos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
   <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLopesLemos&theme=tokyonight&layout=compact&langs_count=7"
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLopesLemos&theme=tokyonight&layout=compact&langs_count=7"
   />
-  
 </p>
 
-<br /><br />
 ---
 
 Obrigado pela visita! 🚀
